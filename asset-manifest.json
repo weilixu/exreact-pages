@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/exreact-pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/exreact-pages/static/js/main.0da89910.chunk.js",
+    "main.js.map": "/exreact-pages/static/js/main.0da89910.chunk.js.map",
+    "runtime-main.js": "/exreact-pages/static/js/runtime-main.6444cfb9.js",
+    "runtime-main.js.map": "/exreact-pages/static/js/runtime-main.6444cfb9.js.map",
+    "static/js/2.312196e1.chunk.js": "/exreact-pages/static/js/2.312196e1.chunk.js",
+    "static/js/2.312196e1.chunk.js.map": "/exreact-pages/static/js/2.312196e1.chunk.js.map",
+    "static/js/3.e6e1afcc.chunk.js": "/exreact-pages/static/js/3.e6e1afcc.chunk.js",
+    "static/js/3.e6e1afcc.chunk.js.map": "/exreact-pages/static/js/3.e6e1afcc.chunk.js.map",
+    "index.html": "/exreact-pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/exreact-pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.312196e1.chunk.js.LICENSE.txt": "/exreact-pages/static/js/2.312196e1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/exreact-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6444cfb9.js",
+    "static/js/2.312196e1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0da89910.chunk.js"
+  ]
+}
