@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/exreact-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/exreact-pages/static/js/main.0da89910.chunk.js",
-    "main.js.map": "/exreact-pages/static/js/main.0da89910.chunk.js.map",
+    "main.js": "/exreact-pages/static/js/main.5f75bf13.chunk.js",
+    "main.js.map": "/exreact-pages/static/js/main.5f75bf13.chunk.js.map",
     "runtime-main.js": "/exreact-pages/static/js/runtime-main.6444cfb9.js",
     "runtime-main.js.map": "/exreact-pages/static/js/runtime-main.6444cfb9.js.map",
     "static/js/2.312196e1.chunk.js": "/exreact-pages/static/js/2.312196e1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6444cfb9.js",
     "static/js/2.312196e1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0da89910.chunk.js"
+    "static/js/main.5f75bf13.chunk.js"
   ]
 }
