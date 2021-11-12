@@ -2,9 +2,9 @@ import React from "react";
 //Stateless Functional Component
 const NavBar = () => {
   return (
-    <nav class="navbar navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+    <nav className="navbar navbar-light bg-light">
+      <div className="container-fluid">
+        <a className="navbar-brand" href="https://weilixu.github.io/exreact-pages/">
           Simple Plot Application
         </a>
       </div>
